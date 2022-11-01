@@ -21,7 +21,7 @@ Hi, I am Tong Lin! I am a master student from University of Michigan, Ann Arbor,
 
 ## News
 
-- **[Aug. 2022]** My homepage starts running wohooo~
+- **[Oct. 2022]** My homepage starts running wohooo~
 
 ## Publications
 
