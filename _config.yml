@@ -19,8 +19,8 @@ linkedin: https://www.linkedin.com/in/tong-lin-435242230/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar_1.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/icon.png
+favicon_dark: ./assets/img/icon.png
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
