@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Tong Lin
+position: Master Student
+affiliation: University of Michigan, Ann Arbor
+email: tonglin (at) umich.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,9 +12,9 @@ canonical: https://minimal-light.yyliu.net/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+# google_scholar: https://scholar.google.com/
+github_link: https://github.com/francislint/
+linkedin: https://www.linkedin.com/in/tong-lin-435242230/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
