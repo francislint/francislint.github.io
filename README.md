@@ -1,4 +1,4 @@
-This is my homepage!
+**Welcome to my homepage!**
 
 ## Acknowledgements
 
