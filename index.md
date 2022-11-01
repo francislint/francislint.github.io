@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I am a master student from University of Michigan, Ann Arbor, specialized in **Data Science** and **Industrial Operations & Engineering**.
+Hi, I am Tong Lin! I am currently a master student from [University of Michigan, Ann Arbor](https://umich.edu/), specialized in **Data Science** and **Industrial Operations & Engineering**.
 
 ## Education
 
