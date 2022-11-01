@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a master student at University of Michigan, Ann Arbor.
 
 ## Research Interests
 
