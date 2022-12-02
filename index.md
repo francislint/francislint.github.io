@@ -17,7 +17,7 @@ Hi, I am Tong Lin! I am currently a master student from [University of Michigan,
 - **Machine Learning**
 - **Natural Language Processing**
 - **Text Mining**
-- **Computational Social Science**
+- **Social Media**
 
 ## News
 
