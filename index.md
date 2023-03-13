@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I am currently a master student from [University of Michigan, Ann Arbor](https://umich.edu/), specialized in **Data Science** and **Industrial & Operations Engineering**.
+Hi, I am Tong Lin! I will be a coming PhD student at [UMSI](https://www.si.umich.edu/), advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). I am currently pursuing dual Master's degrees at the [University of Michigan](https://umich.edu/) in **Data Science** and **Industrial & Operations Engineering**. My general research interests focus on the applications of machine learning and natural language processing techniques in the analysis of social media data. 
 
 ## Education
 
-- M.S. in **Data Science**, [University of Michigan](https://umich.edu/), *2023 (Expected)*
-- M.S. in **Industrial & Operations Engineering**, [University of Michigan](https://umich.edu/), *2023 (Expected)*
+- Ph.D. in **Information**, [School of Information, University of Michigan](https://www.si.umich.edu/), *2028 (expected)*
+- M.S. in **Data Science**, [University of Michigan](https://umich.edu/), *2023*
+- M.S. in **Industrial & Operations Engineering**, [University of Michigan](https://umich.edu/), *2023*
 - B.S. in **Computer Science**, [Hong Kong Baptist University](https://www.hkbu.edu.hk/), *2021*
 
 ## Research Interests
@@ -21,6 +22,7 @@ Hi, I am Tong Lin! I am currently a master student from [University of Michigan,
 
 ## News
 
+- **[Mar. 2023]** Got admitted to UMSI and decided to join this big community!
 - **[Oct. 2022]** My homepage starts running wohooo~
 
 ## Publications
