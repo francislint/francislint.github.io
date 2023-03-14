@@ -22,7 +22,7 @@ Hi, I am Tong Lin! I will be a coming PhD student at **[UMSI](https://www.si.umi
 
 ## News
 
-- **[Mar. 2023]** Got admitted to UMSI and decided to join this big community!
+- **[Mar. 2023]** Got admitted to UMSI and excited to join this big community!
 - **[Oct. 2022]** My homepage starts running wohooo~
 
 ## Publications
