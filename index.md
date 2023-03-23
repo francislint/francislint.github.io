@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I will be a coming PhD student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). I am currently pursuing dual Master's degrees in **Data Science** and **Industrial & Operations Engineering** at the [University of Michigan](https://umich.edu/). My general research interests focus on the applications of machine learning and natural language processing techniques in the analysis of social media data. 
+Hi, I am Tong Lin! I will be a coming PhD student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). I am currently pursuing dual Master's degrees in **Data Science** and **Industrial & Operations Engineering** at [University of Michigan](https://umich.edu/). My general research interests focus on the applications of machine learning and natural language processing techniques in field of social media. 
 
 ## Education
 
