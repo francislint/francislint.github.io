@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I will be a coming PhD student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). I am currently pursuing dual Master's degrees in **Data Science** and **Industrial & Operations Engineering** at [University of Michigan](https://umich.edu/). My general research interests focus on the applications of machine learning and natural language processing techniques in field of social media. 
+Hi, I am Tong Lin! I am a Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). Before joining UMSI, I completed my dual Master's degrees in **Data Science** and **Industrial & Operations Engineering** at [University of Michigan](https://umich.edu/), and I received my Bachelor's degree in Computer Science at [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
+
+My general research interests focus on the applications of machine learning and natural language processing techniques in the field of social media. 
 
 ## Education
 
@@ -27,8 +29,10 @@ Hi, I am Tong Lin! I will be a coming PhD student at **[UMSI](https://www.si.umi
 
 ## Publications
 
-Coming...
+**indicates equal contribution*
 
-## Services
+- **Tong Lin^***, Tianliang Xu^*, Amit Zac, and Sabina Tomkins. SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability. *In Proceedings of [the Thirty-Second International Joint Conference on Artificial Intelligence](https://ijcai-23.org/), 2023*. AI and Social Good Track.
 
-Coming...
+## Services & Experiences
+
+- **[Aug 2023]** Volunteer at [IJCAI](https://ijcai-23.org/), Macau
