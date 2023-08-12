@@ -29,7 +29,7 @@ My general research interests focus on the applications of machine learning and 
 
 ## Publications
 
-* indicates equal contribution
+\^* indicates equal contribution
 
 - **Tong Lin**, Tianliang Xu, Amit Zac, and Sabina Tomkins. SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability. In Proceedings of [the Thirty-Second International Joint Conference on Artificial Intelligence](https://ijcai-23.org/), 2023. AI and Social Good Track.
 
