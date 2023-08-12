@@ -33,7 +33,7 @@ My general research interests focus on the applications of machine learning and 
 
 - **Tong Lin\***, Tianliang Xu\*, Amit Zac, and Sabina Tomkins \
 **SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability** \
-IJCAI 2023, AI and Social Good Track \
+*IJCAI 2023, AI and Social Good Track* \
 [[Paper]](https://francislint.github.io/) | [[Code]](https://github.com/Sabina321/sustainable_signals)
 
 ## Services & Experiences
