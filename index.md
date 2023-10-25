@@ -26,7 +26,7 @@ More about me: I am a desperate cat and dog lover, also a passionate music admir
 ## News
 
 - **[Aug. 2023]** Present our work "*SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability*" at IJCAI'23!
-- **[Mar. 2023]** Got admitted to UMSI and excited to join this big community!
+- **[Mar. 2023]** Get admitted to UMSI and thrilled to become part of this big community!
 - **[Oct. 2022]** My homepage starts running wohooo~
 
 ## Publications
