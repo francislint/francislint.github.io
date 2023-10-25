@@ -40,4 +40,4 @@ IJCAI 2023, AI and Social Good Track \
 
 ## Services & Experiences
 
-- **[Aug 2023]** Volunteer at [IJCAI](https://ijcai-23.org/), Macau
+- **[Aug 2023]** Volunteer at [IJCAI'23](https://ijcai-23.org/), Macau
