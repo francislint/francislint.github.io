@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I am a Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). Before joining UMSI, I completed my Master's degrees in Data Science and Industrial & Operations Engineering at [University of Michigan](https://umich.edu/), and I received my Bachelor's degree in Computer Science at [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
+Hi, I am Tong Lin! I am a Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). My current research interest concentrates on applying machine learning and natural language processing approaches in the realms of social media and political research. I aim to utilize computational strategies to promote and enhance policies within these domains. 
 
-My general research interests focus on the applications of machine learning and natural language processing techniques in the field of social media. 
+More about me: I am a desperate cat and dog lover, also a passionate music admirer, a video game enthusiast, a travelling lover, a diverse cuisine explorer, a video content creator, a(n) (exceptionally amateur) photographer, and a thousand other things. 
 
 ## Education
 
@@ -21,9 +21,11 @@ My general research interests focus on the applications of machine learning and 
 - **Natural Language Processing**
 - **Text Mining**
 - **Social Media**
+- **Political Studies**
 
 ## News
 
+- **[Aug. 2023]** Present our work "*SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability*" at IJCAI'23!
 - **[Mar. 2023]** Got admitted to UMSI and excited to join this big community!
 - **[Oct. 2022]** My homepage starts running wohooo~
 
