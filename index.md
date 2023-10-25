@@ -6,7 +6,7 @@ layout: homepage
 
 Hi, I am Tong Lin! I am a Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/) and [Dr. Eytan Adar](http://www.cond.org/). My current research interest concentrates on applying machine learning and natural language processing approaches in the realms of social media and political research. I aim to utilize computational strategies to promote and enhance policies within these domains. 
 
-More about me: I am a desperate cat and dog lover, also a passionate music admirer, a video game enthusiast, a travelling lover, a diverse cuisine explorer, a video content creator, a(n) (exceptionally amateur) photographer, and a thousand other things. 
+More about me: I am a desperate cat and dog lover, also a passionate music admirer, a video game enthusiast, a travel lover, a diverse cuisine explorer, a video content creator, a(n) (exceptionally amateur) photographer, and a thousand other things. 
 
 ## Education
 
