@@ -23,8 +23,10 @@ More about me: I am a desperate cat and dog lover, also a passionate music admir
 - **Political Studies**
 
 ## News
-
-- **[Aug. 2023]** Present our work "*SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability*" at IJCAI'23!
+- **[Nov. 2024]** Present our work "*Tab2Text-A framework for deep learning with tabular data*" at EMNLP'24, Miami!
+- **[Jul. 2024]** Present our idea "*Tab2Text-A framework for deep learning with tabular data*" at IC2S2'24, Philadelphia!
+- **[Jun. 2024]** Enjoyed my time at ICWSM'24, Buffalo!
+- **[Aug. 2023]** Present our work "*SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability*" at IJCAI'23, Macao!
 - **[Mar. 2023]** Get admitted to UMSI and thrilled to become part of this big community!
 - **[Oct. 2022]** My homepage starts running wohooo~
 
