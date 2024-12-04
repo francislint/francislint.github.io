@@ -18,8 +18,7 @@ More about me: I am a desperate cat and dog lover, also a passionate music admir
 ## Research Interests
 
 - **Machine Learning**
-- **Natural Language Processing**
-- **Text Mining**
+- **Large Language Model**
 - **Social Media**
 - **Political Studies**
 
@@ -32,11 +31,17 @@ More about me: I am a desperate cat and dog lover, also a passionate music admir
 ## Publications
 
 (\* equal contribution)
+- **Tong Lin\***, Jason Yan\*, David Jurgens, and Sabina Tomkins \
+**Tab2Text-A framework for deep learning with tabular data** \
+EMNLP Findings 2024 \
+[[Paper]](https://aclanthology.org/2024.findings-emnlp.756/) | [[Code]](https://francislint.github.io/)
+
+
 
 - **Tong Lin\***, Tianliang Xu\*, Amit Zac, and Sabina Tomkins \
 **SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability** \
 IJCAI 2023, AI and Social Good Track \
-[[Paper]](https://francislint.github.io/) | [[Code]](https://github.com/Sabina321/sustainable_signals)
+[[Paper]]([https://francislint.github.io/](https://www.researchgate.net/profile/Tianliang-Xu/publication/373078488_SUSTAINABLESIGNALS_An_AI_Approach_for_Inferring_Consumer_Product_Sustainability/links/662587b439e7641c0be0a6cf/SUSTAINABLESIGNALS-An-AI-Approach-for-Inferring-Consumer-Product-Sustainability.pdf)) | [[Code]](https://github.com/Sabina321/sustainable_signals)
 
 ## Services & Experiences
 
