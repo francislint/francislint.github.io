@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I am a first year Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/). My current research interest concentrates on applying machine learning and natural language processing approaches in the realms of social media and political research. I aim to utilize computational strategies to promote and enhance policies within these domains. 
+Hi, I am Tong Lin! I am a second year Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/). My current research interest concentrates on applying machine learning and natural language processing approaches in the realms of social media and political research. I aim to utilize computational strategies to promote and enhance policies within these domains. 
 
 More about me: I am a desperate cat and dog lover, also a passionate music admirer, a video game enthusiast, a travel lover, a cuisine explorer, a video content creator, a suspense & detective TV series seeker, a(n) (exceptionally amateur) photographer, and a thousand other things. 
 
