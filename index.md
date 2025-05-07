@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I am a second year Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/). My current research interest concentrates on applying machine learning and natural language processing approaches in the realms of social media and political research. I aim to utilize computational strategies to promote and enhance policies within these domains. 
+Hi, I am Tong Lin! I am a second year Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/). I'm currently exploring how large language models can generate and support annotations for research in computational social science. I’m also interested in using machine learning and language technologies to better understand conversations and user behavior on social media.
 
 More about me: I am a desperate cat and dog lover, also a passionate music admirer, a video game enthusiast, a travel lover, a cuisine explorer, a video content creator, a suspense & detective TV series seeker, a(n) (exceptionally amateur) photographer, and a thousand other things. 
 
@@ -17,12 +17,13 @@ More about me: I am a desperate cat and dog lover, also a passionate music admir
 
 ## Research Interests
 
+- **Computational Social Science**
+- - **Large Language Model**
 - **Machine Learning**
-- **Large Language Model**
 - **Social Media**
-- **Political Studies**
 
 ## News
+- **[May. 2025]** Thrilled to starting my Applied Scientist internship at Amazon, Seattle!
 - **[Nov. 2024]** Present our work "*Tab2Text-A framework for deep learning with tabular data*" at EMNLP'24, Miami!
 - **[Jul. 2024]** Present our idea "*Tab2Text-A framework for deep learning with tabular data*" at IC2S2'24, Philadelphia!
 - **[Jun. 2024]** Enjoyed my time at ICWSM'24, Buffalo!
