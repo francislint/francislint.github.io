@@ -18,7 +18,7 @@ More about me: I am a desperate cat and dog lover, also a passionate music admir
 ## Research Interests
 
 - **Computational Social Science**
-- - **Large Language Model**
+- **Large Language Model**
 - **Machine Learning**
 - **Social Media**
 
