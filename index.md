@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Tong Lin! I am a second year Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/). I'm currently exploring how large language models can generate and support annotations for research in computational social science. I’m also interested in using machine learning and NLP techniques to better understand conversations and user behavior on social media.
+Hi, I am Tong Lin! I am a second year Ph.D. student at **[UMSI](https://www.si.umich.edu/)**, advised by [Dr. Sabina Tomkins](https://www.travellingscholar.com/). My research interests broadly focus on Large Language Models (LLMs) and Machine Learning in Computational Social Science. Specifically, I explore active learning for LLMs, i.e. how LLMs can more effectively generate and support annotations that enhance CSS datasets and research. I’m also interested in using computational tools to better understand conversations and user behavior on social media.
 
 More about me: I am a desperate cat and dog lover, also a passionate music admirer, a video game enthusiast, a travel lover, a cuisine explorer, a video content creator, a suspense & detective TV series seeker, a(n) (exceptionally amateur) photographer, and a thousand other things. 
 
